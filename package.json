@@ -1,0 +1,24 @@
+{
+  "name": "porfolio-mobile-version-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KABIKA681/porfolio-mobile-version-skeleton.git"
+  },
+  "keywords": [],
+  "author": "Jaman Dedy, Gilles Kagarama <jeandedieuam@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KABIKA681/porfolio-mobile-version-skeleton/issues"
+  },
+  "homepage": "https://github.com/KABIKA681/porfolio-mobile-version-skeleton#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0"
+  }
+}
