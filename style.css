@@ -48,10 +48,18 @@ body {
   color: rgb(32, 28, 87);
 }
 
+.image-intro i {
+  margin-right: 10px;
+  margin-top: 0px;
+  font-size: 25px;
+  color: rgb(38, 38, 73);
+}
+
 .bars-icon .bars i {
   font-size: 30px;
   cursor: pointer;
 }
+
 .main-container {
   flex-direction: column;
   justify-content: flex-start;
@@ -63,7 +71,6 @@ p {
 }
 
 main {
-  background-color: none;
   padding: 20px;
   margin-top: 30px;
 }
@@ -76,14 +83,7 @@ h1 {
 
 .icons-title h3 {
   font-weight: 400;
-  color: rgb(212, 117, 9);
+  color: rgb(197, 131, 56);
   margin-bottom: 10px;
   font-size: 18px;
-}
-
-.image-intro i {
-  margin-right: 10px;
-  margin-top: 0px;
-  font-size: 25px;
-  color: rgb(38, 38, 73);
 }
