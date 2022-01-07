@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;900&display=swap");
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  background-position: 20px 10px;
+  background-image: url(./header-shapes\ mobile.png);
+  background-size: cover;
+  background-position-y: 1px;
+  background-position-x: 30px;
+  background-repeat: no-repeat;
+}
+
+.header-content {
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  position: inherit;
+  margin: 0 0;
+  padding: 0;
+}
+
+.sub-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  width: 40px;
+  margin: 20px;
+  background-color: black;
+  border-radius: 50%;
+  padding: 2px;
+  align-content: center;
+  text-align: center;
+}
+
+.bars-icon {
+  margin: 20px;
+  align-content: center;
+  color: rgb(32, 28, 87);
+}
+
+.image-intro i {
+  margin-right: 10px;
+  font-size: 25px;
+  color: rgb(38, 38, 73);
+}
+
+.bars-icon .bars i {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.main-container {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+p {
+  margin-bottom: 10px;
+  color: rgb(79, 88, 107);
+}
+
+main {
+  padding: 20px;
+  margin-top: 30px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: rgb(38, 38, 73);
+}
+
+.icons-title h3 {
+  font-weight: 400;
+  color: rgb(197, 131, 56);
+  margin-bottom: 10px;
+  font-size: 18px;
+}
